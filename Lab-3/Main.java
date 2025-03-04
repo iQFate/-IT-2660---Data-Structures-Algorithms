@@ -1,3 +1,5 @@
+//Timothy Lenzer
+
 public class Main {
   public static void main(String[] args) {
     String text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
